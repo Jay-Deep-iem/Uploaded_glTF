@@ -1,0 +1,926 @@
+{
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 30305,
+      "max": [
+        3.280841827392578,
+        0.016404200345277786,
+        0.41010475158691406
+      ],
+      "min": [
+        0.0,
+        -13.782750129699707,
+        -0.01640605926513672
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 30305,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5125,
+      "count": 144072,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 30305,
+      "max": [
+        3.2808408737182617,
+        13.782748222351074,
+        0.016405105590820313
+      ],
+      "min": [
+        0.0,
+        -0.016404390335083008,
+        -0.41010475158691406
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 30305,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5125,
+      "count": 144072,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5126,
+      "count": 30305,
+      "max": [
+        3.280839681625366,
+        13.782748222351074,
+        0.016405105590820313
+      ],
+      "min": [
+        0.0,
+        -0.016404200345277786,
+        -0.41010475158691406
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 4,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 30305,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 5,
+      "componentType": 5125,
+      "count": 144072,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 6,
+      "componentType": 5126,
+      "count": 24,
+      "max": [
+        -9.890917778015137,
+        14.930158615112305,
+        9.350393295288086
+      ],
+      "min": [
+        -10.711127281188965,
+        2.791051149368286,
+        8.858267784118652
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 6,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 24,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 7,
+      "componentType": 5125,
+      "count": 36,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 8,
+      "componentType": 5126,
+      "count": 24,
+      "max": [
+        2.3302109241485596,
+        2.7090301513671875,
+        9.350393295288086
+      ],
+      "min": [
+        -9.808897018432617,
+        1.8888202905654907,
+        8.858267784118652
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 8,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 24,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 9,
+      "componentType": 5125,
+      "count": 36,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 10,
+      "componentType": 5126,
+      "count": 24,
+      "max": [
+        3.2324419021606445,
+        14.930158615112305,
+        9.350393295288086
+      ],
+      "min": [
+        2.412231922149658,
+        2.791051149368286,
+        8.858267784118652
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 10,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 24,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 11,
+      "componentType": 5125,
+      "count": 36,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 12,
+      "componentType": 5126,
+      "count": 24,
+      "max": [
+        2.3302109241485596,
+        15.832389831542969,
+        9.350393295288086
+      ],
+      "min": [
+        -9.808897018432617,
+        15.012179374694824,
+        8.858267784118652
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 12,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 24,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 13,
+      "componentType": 5125,
+      "count": 36,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 14,
+      "componentType": 5126,
+      "count": 44,
+      "max": [
+        3.314462900161743,
+        15.92038345336914,
+        9.842519760131836
+      ],
+      "min": [
+        -10.7931489944458,
+        1.806799292564392,
+        9.350393295288086
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 14,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 44,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 15,
+      "componentType": 5125,
+      "count": 102,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 14,
+      "byteOffset": 1408,
+      "componentType": 5126,
+      "count": 12,
+      "max": [
+        3.314462900161743,
+        15.92038345336914,
+        9.842519760131836
+      ],
+      "min": [
+        -10.7931489944458,
+        1.806799292564392,
+        9.842519760131836
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 14,
+      "byteOffset": 1420,
+      "componentType": 5126,
+      "count": 12,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 15,
+      "byteOffset": 408,
+      "componentType": 5125,
+      "count": 30,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 969760,
+      "byteStride": 32,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 576288,
+      "byteOffset": 969760,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 969760,
+      "byteOffset": 1546048,
+      "byteStride": 32,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 576288,
+      "byteOffset": 2515808,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 969760,
+      "byteOffset": 3092096,
+      "byteStride": 32,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 576288,
+      "byteOffset": 4061856,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 768,
+      "byteOffset": 4638144,
+      "byteStride": 32,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 144,
+      "byteOffset": 4638912,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 768,
+      "byteOffset": 4639056,
+      "byteStride": 32,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 144,
+      "byteOffset": 4639824,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 768,
+      "byteOffset": 4639968,
+      "byteStride": 32,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 144,
+      "byteOffset": 4640736,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 768,
+      "byteOffset": 4640880,
+      "byteStride": 32,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 144,
+      "byteOffset": 4641648,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1792,
+      "byteOffset": 4641792,
+      "byteStride": 32,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 528,
+      "byteOffset": 4643584,
+      "target": 34963
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 4644112,
+      "uri": "26-09-2025.bin"
+    }
+  ],
+  "materials": [
+    {
+      "name": "fallback Material",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      }
+    },
+    {
+      "name": "fallback Material",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      }
+    },
+    {
+      "name": "fallback Material",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      }
+    },
+    {
+      "name": "fallback Material",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Rebar Bar H10 [397761]_[319274]001",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0
+          },
+          "indices": 2,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Rebar Bar H10 [397803]_[319274]001",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 4,
+            "POSITION": 3
+          },
+          "indices": 5,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Rebar Bar H10 [397804]_[319274]001",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 7,
+            "POSITION": 6
+          },
+          "indices": 8,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Concrete - Rectangular Beam 250 x 300mm [381064]001",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 10,
+            "POSITION": 9
+          },
+          "indices": 11,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Concrete - Rectangular Beam 250 x 300mm [381115]001",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 13,
+            "POSITION": 12
+          },
+          "indices": 14,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Concrete - Rectangular Beam 250 x 300mm [381152]001",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 16,
+            "POSITION": 15
+          },
+          "indices": 17,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Concrete - Rectangular Beam 250 x 300mm [381193]001",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 19,
+            "POSITION": 18
+          },
+          "indices": 20,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Floor Normal Slab 150mm [389706]001",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 22,
+            "POSITION": 21
+          },
+          "indices": 23,
+          "material": 2,
+          "mode": 4
+        },
+        {
+          "attributes": {
+            "NORMAL": 25,
+            "POSITION": 24
+          },
+          "indices": 26,
+          "material": 3,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "matrix": [
+        0.0254,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0254,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0254,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "mesh": 0,
+      "name": "Rebar Bar H10 [397761]_[319274]001"
+    },
+    {
+      "children": [
+        0
+      ],
+      "matrix": [
+        -12.0,
+        1.4695761172230828e-15,
+        1.0490732620382914e-06,
+        0.0,
+        -1.0490732620382914e-06,
+        1.0490732620382914e-06,
+        -12.0,
+        0.0,
+        -9.318248077446953e-14,
+        -12.0,
+        -1.0490732620382914e-06,
+        0.0,
+        -2.2647516845703124,
+        2.9700001098632813,
+        -4.822532769775391,
+        1.0
+      ]
+    },
+    {
+      "matrix": [
+        0.0254,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0254,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0254,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "mesh": 1,
+      "name": "Rebar Bar H10 [397803]_[319274]001"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        -5.245366310191457e-07,
+        0.0,
+        -12.0,
+        0.0,
+        -12.0,
+        0.0,
+        5.245366310191457e-07,
+        0.0,
+        0.0,
+        12.0,
+        0.0,
+        0.0,
+        0.936230256652832,
+        2.9700001098632813,
+        -3.8275326507568357,
+        1.0
+      ]
+    },
+    {
+      "matrix": [
+        0.0254,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0254,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0254,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "mesh": 2,
+      "name": "Rebar Bar H10 [397804]_[319274]001"
+    },
+    {
+      "children": [
+        4
+      ],
+      "matrix": [
+        11.999999999999998,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -11.999999999999998,
+        0.0,
+        0.0,
+        11.999999999999998,
+        0.0,
+        0.0,
+        -0.014751678001880646,
+        2.9700001098632813,
+        -0.5807124221801757,
+        1.0
+      ]
+    },
+    {
+      "matrix": [
+        0.0254,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0254,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0254,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "mesh": 3,
+      "name": "Concrete - Rectangular Beam 250 x 300mm [381064]001"
+    },
+    {
+      "children": [
+        6
+      ],
+      "matrix": [
+        11.999999999999998,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -11.999999999999998,
+        0.0,
+        0.0,
+        11.999999999999998,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "matrix": [
+        0.0254,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0254,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0254,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "mesh": 4,
+      "name": "Concrete - Rectangular Beam 250 x 300mm [381115]001"
+    },
+    {
+      "children": [
+        8
+      ],
+      "matrix": [
+        11.999999999999998,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -11.999999999999998,
+        0.0,
+        0.0,
+        11.999999999999998,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "matrix": [
+        0.0254,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0254,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0254,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "mesh": 5,
+      "name": "Concrete - Rectangular Beam 250 x 300mm [381152]001"
+    },
+    {
+      "children": [
+        10
+      ],
+      "matrix": [
+        11.999999999999998,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -11.999999999999998,
+        0.0,
+        0.0,
+        11.999999999999998,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "matrix": [
+        0.0254,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0254,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0254,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "mesh": 6,
+      "name": "Concrete - Rectangular Beam 250 x 300mm [381193]001"
+    },
+    {
+      "children": [
+        12
+      ],
+      "matrix": [
+        11.999999999999998,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -11.999999999999998,
+        0.0,
+        0.0,
+        11.999999999999998,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "matrix": [
+        0.0254,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0254,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0254,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "mesh": 7,
+      "name": "Floor Normal Slab 150mm [389706]001"
+    },
+    {
+      "children": [
+        14
+      ],
+      "matrix": [
+        11.999999999999998,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -11.999999999999998,
+        0.0,
+        0.0,
+        11.999999999999998,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    }
+  ],
+  "scenes": [
+    {
+      "nodes": [
+        1,
+        3,
+        5,
+        7,
+        9,
+        11,
+        13,
+        15
+      ]
+    }
+  ]
+}
